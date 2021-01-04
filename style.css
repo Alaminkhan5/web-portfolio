@@ -35,6 +35,13 @@ background-repeat: no-repeat; background-position: right;}
     box-shadow: 10px 10px 40px grey; border-radius: 5px; height: 80%;
     }
     .experience-area{
-        background-image: url(exp-bg.png); background-repeat: no-repeat;
+        background-image: url(exp-bg.png); background-repeat: no-repeat; background-position: left;
+    }
+    #full-steck{ 
+        border-left: 7px solid rgb(114, 4, 4);
+        border-image:linear-gradinet(180deg, salmon tomato);
+        border-image-slice: 1;
+       
+        
     }
 
