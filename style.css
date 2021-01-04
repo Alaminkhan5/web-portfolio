@@ -3,9 +3,11 @@ body{ margin: 0%;
     font-family: 'Poppins', sans-serif;
 }
 h1{font-size: 50px;}
-h3{font-size: 30px;}
+h3{font-size: 20px;}
+h5{ font-size: 20px;}
+p{color: rgba(12, 6, 1, 0.884);}
 
-.name-highlight{ color: orange;}
+.orange-highlight{ color: orange;}
 .half-width{ 
     width: 40%;
     float: left; 
@@ -25,3 +27,14 @@ section{height: 500px;}
     color: rgb(236, 224, 214); 
     font-weight: 700;
 }
+#color{color: lawngreen;}
+.dream-area{
+    float: left; background-image: url(dream-bg.png);
+background-repeat: no-repeat; background-position: right;}
+.single{
+    box-shadow: 10px 10px 40px grey; border-radius: 5px; height: 80%;
+    }
+    .experience-area{
+        background-image: url(exp-bg.png); background-repeat: no-repeat;
+    }
+
